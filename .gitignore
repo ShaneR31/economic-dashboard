@@ -1,0 +1,10 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore API key files or environment configuration files
+.env
+
+# Ignore data files
+data/
+*.csv
